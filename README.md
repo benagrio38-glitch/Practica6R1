@@ -48,4 +48,6 @@ flutter test
 
 ## Pruebas
 
+![flutter test](evidencia/04_flutter_test.png)
+
 `test/widget_test.dart`: abre la app, entra al detalle de Desarrollo de Software, comprueba el contenido y regresa a la lista con el botón **Regresar**.
